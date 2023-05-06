@@ -5,7 +5,7 @@ ODIN-RECIPES
 
  ---
 
-The Site will be structured ny having:
+The Site will be structured by having:
 - A main page
     - a couple of links to the actual recipes
     - some images about the topic
