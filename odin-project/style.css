@@ -1,0 +1,26 @@
+* {
+    font-family: Verdana, "Times New Roman", sans-serif;
+    background-color: bisque;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1; /* Adjust as needed */
+  }
+
+.center {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 48px;
+    color:darkslategrey;
+}
+
+li {
+    font-size: 28px;
+}
+
+img {
+    width: 700px;
+    height: auto;
+}
